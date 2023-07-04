@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello,how are you? 
+=======
+hai all welcome ,Hey bro whatsapp,how u doin bruh?.
+>>>>>>> feature
