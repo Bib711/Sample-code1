@@ -28,7 +28,7 @@ public class loops {
                 case 5->{
                     co = false;
                 }
-                default->{System.out.println("\nInvalid input entered,Try again!!!");}
+                default->{System.out.println("\nInvalid input entered,Try again...");}
             }
         }
     }
